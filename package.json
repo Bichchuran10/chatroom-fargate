@@ -1,0 +1,16 @@
+{
+  "name": "chat-app",
+  "version": "0.0.0",
+  "description": "scalable chat app",
+  "main": "index.js",
+  "author": "Bichchuran Changmai",
+  "private": true,
+  "license": "BSD",
+  "dependencies": {
+    "express": "4.13.4",
+    "socket.io": "2.0.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
